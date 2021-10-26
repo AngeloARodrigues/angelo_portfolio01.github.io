@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-287,0)">
+        <g id="Prancheta1" transform="matrix(1,0,0,1,287,0)">
+            <rect x="0" y="0" width="128" height="128" style="fill:none;"/>
+            <g transform="matrix(1.20845,0,0,1.20845,-21.2224,-6.20829)">
+                <g transform="matrix(0.178974,-0.408554,0.427611,0.170998,-41.312,191.325)">
+                    <path d="M353.696,37C333.348,61.181 313,85.062 313,106.681C313,118.447 322.858,128 335,128C347.142,128 357,118.447 357,106.681C357,85.062 339.948,71.841 353.696,37Z" style="fill:rgb(230,126,34);"/>
+                </g>
+                <g transform="matrix(1,0,0,1,-297,-7)">
+                    <circle cx="391.457" cy="39.5" r="18.5" style="fill:rgb(230,126,34);"/>
+                </g>
+                <g transform="matrix(1,0,0,1,-287,0)">
+                    <path d="M362.957,32.5C365.574,67.394 360.287,81.245 307.256,91C378.662,109.371 399.871,83.108 399.957,32.5L362.957,32.5Z" style="fill:rgb(230,126,34);"/>
+                </g>
+                <g transform="matrix(0.143548,-0.499647,0.567604,0.148861,-39.9869,213.235)">
+                    <path d="M353.696,37C333.348,63.004 313,86.319 313,108.504C313,119.264 322.858,128 335,128C347.142,128 357,119.264 357,108.504C357,86.319 339.948,72.752 353.696,37Z" style="fill:rgb(230,126,34);"/>
+                </g>
+                <g transform="matrix(0.155761,-0.564677,0.591016,0.14882,-46.6266,224.717)">
+                    <path d="M353.696,37C333.348,61.35 313,85.178 313,106.85C313,118.523 322.858,128 335,128C347.142,128 357,118.523 357,106.85C357,85.178 339.948,71.925 353.696,37Z" style="fill:rgb(230,126,34);"/>
+                </g>
+                <g transform="matrix(1,0,0,1,-284,0)">
+                    <path d="M393,26.244L405,25L395,31L404,32.5L395,36" style="fill:rgb(230,126,34);"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
